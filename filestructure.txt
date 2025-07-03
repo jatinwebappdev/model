@@ -1,4 +1,6 @@
+|-- callRequestTesting.py
 |-- cog.yaml
+|-- commandHistory.txt
 |-- config.txt
 |-- config_modification_tutorial.txt
 |-- CreativeMLOpenRAIL-M
@@ -658,7 +660,7 @@
             |-- inpaint
                 |-- put_inpaint_here
             |-- loras
-                |-- img2img-good output.safetensors
+                |-- model.txt
             |-- prompt_expansion
                 |-- fooocus_expansion
                     |-- config.json
@@ -1069,4 +1071,5 @@
             |-- args_manager.cpython-312.pyc
             |-- fooocus_version.cpython-310.pyc
             |-- fooocus_version.cpython-312.pyc
+|-- requestTesting.py
 |-- requirements.txt

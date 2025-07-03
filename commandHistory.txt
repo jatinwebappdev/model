@@ -1,0 +1,46 @@
+ 1  ls
+    2  python Request-Example_py.py 
+    3  cd model/
+    4  pip install qwen-vl
+    5  cd ..
+    6  python Request-Example_py.py 
+    7  python callreq.py 
+    8  cd model/
+    9  ls
+   10  source venv/bin/activate
+   11  pip install qwen-vl
+   12  df -h
+   13  git clone https://github.com/QwenLM/Qwen-VL.git
+   14  cd Qwen-VL
+   15  pip install -e .
+   16  ls
+   17  ls qwen_vl_utils.py
+   18  cd
+   19  find /workspace/isekai/model -type f -name "qwen_vl_utils.py"
+   20  cd /workspace/isekai
+   21  ls
+   22  python callreq.py 
+   23  cd model
+   24  ls
+   25  rm -rf Qwen-VL/
+   26  ls
+   27  pip install transformers torch torchvision
+   28  cd ..
+   29  python callreq.py 
+   30  cd model
+   31  ls
+   32  pip install git+https://github.com/QwenLM/Qwen-VL.git
+   33  pip install av packaging pillow requests
+   34  pip install qwen-vl-utils
+   35  pip install qwen-vl-utils[decord]
+   36  pip install decord
+   37  cd ..
+   38  python callreq.py
+   39  pip install flash-attn --no-build-isolation
+   40  cd model
+   41  pip install flash-attn --no-build-isolation
+   42  pip install wheel setuptools
+   43  pip install flash-attn --no-build-isolation
+   44  cd ..
+   45  python callreq.py
+   46  history
