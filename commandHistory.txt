@@ -44,3 +44,13 @@
    44  cd ..
    45  python callreq.py
    46  history
+
+
+
+pip install transformers torch torchvision
+     pip install av packaging pillow requests
+     pip install qwen-vl-utils
+     pip install qwen-vl-utils[decord]
+     pip install decord
+   pip install wheel setuptools
+     pip install flash-attn --no-build-isolation

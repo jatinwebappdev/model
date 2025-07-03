@@ -34,10 +34,3 @@ numpy
 sqlalchemy
 packaging
 rich
-qwen-vl
-qwen-vl-utils[decord]
-av
-decord
-flash-attn
-wheel
-setuptools

@@ -193,6 +193,7 @@
         |-- worker.cpython-310.pyc
         |-- worker.cpython-312.pyc
 |-- fooocus_api_version.py
+|-- image.png
 |-- main.py
 |-- outputs
     |-- files
@@ -206,6 +207,7 @@
     |-- pony_v6.json
     |-- realistic.json
     |-- sai.json
+|-- READEME.md
 |-- repositories
     |-- Fooocus
         |-- args_manager.py
@@ -1073,3 +1075,4 @@
             |-- fooocus_version.cpython-312.pyc
 |-- requestTesting.py
 |-- requirements.txt
+|-- test.png
