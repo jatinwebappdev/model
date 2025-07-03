@@ -193,7 +193,9 @@
         |-- worker.cpython-310.pyc
         |-- worker.cpython-312.pyc
 |-- fooocus_api_version.py
+|-- imag.jfif
 |-- image.png
+|-- images.jfif
 |-- main.py
 |-- outputs
     |-- files

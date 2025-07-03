@@ -1,3 +1,13 @@
+model 1: 
+1x RTX 6000 Ada (48 GB VRAM)
+62 GB RAM • 16 vCPU
+Total Disk: 40 GB
+
+model 2 : 
+1x RTX A6000 (48 GB VRAM)
+50 GB RAM • 8 vCPU
+Total Disk: 40 GB
+
 create pod in runpod 
 open port 8000 
 

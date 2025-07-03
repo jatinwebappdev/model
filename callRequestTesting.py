@@ -4,7 +4,7 @@ import base64
 import os
 
 # Host options:
-host = "https://jo38sun450i1sx-8000.proxy.runpod.net"
+host = "https://c99xtyys4c7kw9-8000.proxy.runpod.net"
 # host = "http://203.57.40.188:8000"
 # host = "http://127.0.0.1:8000"
 
@@ -49,7 +49,7 @@ def upscale_vary(image, params: dict) -> dict:
 
 def main():
     # Check if image file exists
-    image_path = "test.png"
+    image_path = "images.jfif"
     if not os.path.exists(image_path):
         print(f"Error: Image file '{image_path}' not found!")
         return
